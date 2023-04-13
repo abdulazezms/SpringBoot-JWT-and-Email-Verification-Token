@@ -4,7 +4,8 @@
 
 The API includes endpoints for user registration, login, and accessing protected resources. JWT tokens are used to authenticate and authorize users. The registration endpoint sends a verification email to the user's provided email address, which contains a unique link to complete the registration process.
 ## What you need to have
-All you need is a JDK (preferably JDK 17) and an IDE
+* JDK (preferably JDK 17)
+* MySQL database. You can instead use H2 DB after adding it to pom.xml and update the DB related info in application.yml
 
 ## Installation
 Clone the repo and navigate to the root directory:
