@@ -26,7 +26,6 @@ java -jar .\email-service-0.0.1-SNAPSHOT.jar --MAIL_HOST_USERNAME=<your-email> -
 
 Make sure to replace <your-email> and <your-email-generated-password> with your actual email address and the generated password respectively. This command will run the email service and authenticate it with your email client, allowing you to send emails from it.
 
-
 #  Example
 
 Open your favirote HTTP client and follow the steps:
