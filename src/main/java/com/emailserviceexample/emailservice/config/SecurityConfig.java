@@ -28,8 +28,8 @@ public class SecurityConfig {
        return http
                .csrf().disable()
                .authorizeHttpRequests()
+               .requestMatchers("/admins/**").hasRole("ADMIN")
                .requestMatchers("/auth/**").permitAll()
-               .requestMatchers("/admins/**").hasAnyAuthority("ROLE_ADMIN")
                .anyRequest()
                .authenticated()
                .and()
