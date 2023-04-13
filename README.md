@@ -4,7 +4,7 @@
 
 The API includes endpoints for user registration, login, and accessing protected resources. JWT tokens are used to authenticate and authorize users. The registration endpoint sends a verification email to the user's provided email address, which contains a unique link to complete the registration process.
 ## What you need to have
-All you need is a JDK (preferrably JDK 17) and an IDE
+All you need is a JDK (preferably JDK 17) and an IDE
 
 ## Installation
 Clone the repo and navigate to the root directory:
@@ -28,7 +28,7 @@ Make sure to replace  `your-email` and `your-email-generated-password` with your
 
 #  Example
 
-Open your favirote HTTP client and follow the steps:
+Open your favorite HTTP client and follow the steps:
 
 
 #### Registration step
