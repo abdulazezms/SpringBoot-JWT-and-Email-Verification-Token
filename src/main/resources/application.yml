@@ -1,0 +1,43 @@
+spring:
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #THIS IS NOT RECOMMENDED FOR USAGE IN PRODUCTION (USE SOMETHING LIKE AWS KMS OR Azure Key Vault, ETC)
+    url: ${DB_URL:jdbc:mysql://localhost:3306}/${DB_NAME:email_verification_example}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:password}
+
+
+  mail:
+    host:
+      smtp.gmail.com
+    port:
+      587
+    #THIS IS NOT RECOMMENDED FOR USAGE IN PRODUCTION (USE SOMETHING LIKE AWS KMS OR Azure Key Vault, ETC)
+    username: ${MAIL_HOST_USERNAME}
+    password: ${MAIL_HOST_PASSWORD}
+
+
+    properties:
+      mail:
+        smtp:
+          auth:
+            true
+          starttls:
+            enable:
+              true
+  liquibase:
+    change-log: db/changelog/changelog.xml
+server:
+  servlet:
+    context-path: /api/v1
+
+verification:
+  expiration:
+    in:
+      minutes: 5
+
