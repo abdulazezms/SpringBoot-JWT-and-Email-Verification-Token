@@ -24,7 +24,7 @@ Once the JAR file is generated, navigate to the target directory and execute the
 java -jar .\email-service-0.0.1-SNAPSHOT.jar --MAIL_HOST_USERNAME=<your-email> --MAIL_HOST_PASSWORD=<your-email-generated-password>
 ```
 
-Make sure to replace  `your-email` and `your-email-generated-password` with your actual email address and the generated password respectively. This command will run the email service and authenticate it with your email client, allowing you to send emails from it.
+Make sure to replace  `your-email` and `your-email-generated-password` with your actual email address and the generated password respectively. This command will run the email service and authenticate it with your email client, allowing you to send emails from it. The password can be generated through your email service provider such as Gmail, so that emails sent from your REST authenticate using the provided credentials.
 
 #  Example
 
