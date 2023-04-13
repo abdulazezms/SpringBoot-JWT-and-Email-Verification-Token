@@ -33,23 +33,23 @@ Open your favirote HTTP client and follow the steps:
 
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-1.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-1.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-2.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-2.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-3.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-3.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-4.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-4.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-5.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-5.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-6.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-6.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/tree/main/src/main/resources/static/img/practical-email-service-7.png)
+![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-7.png)
 
