@@ -33,23 +33,23 @@ Open your favirote HTTP client and follow the steps:
 
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-1.png)
+![Registration step](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-1.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-2.png)
+![The user is registered but not enabled yet](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-2.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-3.png)
+![A token has been generated and will expire in a few minutes (you can customize it)](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-3.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-4.png)
+![Email is now received by the user, and can click on the link to activate his account](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-4.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-5.png)
+![The user is activated](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-5.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-6.png)
+![The user can login and receive the JWT token (you can customize the expiration date of the token)](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-6.png)
 
 
-![alt text](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-7.png)
+![The user can now access resources that require authentication](https://github.com/abdulazezms/SpringBoot-JWT-and-Email-Verification-Token/blob/main/src/main/resources/static/img/practical-email-service-7.png)
 
